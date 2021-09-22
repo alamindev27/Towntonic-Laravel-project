@@ -1,0 +1,45 @@
+.form-group{
+	padding: 2px;;
+}
+
+.form-control{
+	padding: 9px;
+	width: 70%;
+	border: 1px solid #ccc;
+}
+
+.contact-form label{
+	display: block;
+	font-size: 14px;
+	margin-bottom: 2px;
+	font-weight: bold;
+	font-family: inherit;
+}
+
+.about-content{
+	margin-top: 60px;
+	padding: 10px;
+	width: 100%;
+	overflow: hidden;
+	border-top: 1px solid #ccc;
+}
+
+.content{
+width: 50%;
+float: left;
+}
+
+.content p{
+	margin: 0;
+	padding: 0px;
+	font-size: 15px;
+	color: #020202;
+}
+
+.about-img{
+	float: right;
+}
+
+.about-img img{
+	padding: 5px;
+}
